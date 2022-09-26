@@ -34,7 +34,7 @@ $movies = [$ilPadrino, $JohnWick4, $whiplash];
                     <h2><?= $movie->title ?></h2>
                     <p><strong>Anno:</strong> <?= $movie->year ?></p>
                     <p><strong>Genere:</strong> <?= $movie->genre ?></p>
-                    <p><strong>Durata:</strong> <?= $movie->duration ?> ore</p>
+                    <p><strong>Durata:</strong> <?= $movie->duration ?></p>
                     <h5><?= $movie->director ?></h5>
                 </div>
                 <?php
