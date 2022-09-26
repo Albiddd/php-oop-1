@@ -36,5 +36,5 @@ $JohnWick4 = new Movie('John Wick 4', 'Chad Stahelski', 2023, 'Azione', '');
 $whiplash = new Movie('Whiplash','Damien Chazelle', 2015, 'Dramma', 1.47 );
 
 var_dump($ilPadrino);
-var_dump($ilPadrino);
-var_dump($ilPadrino);
+var_dump($JohnWick4);
+var_dump($whiplash);
